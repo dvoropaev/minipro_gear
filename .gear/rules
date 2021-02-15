@@ -1,0 +1,4 @@
+#tar: . name=@name@-@version@-@release@ base=@name@-@version@
+tar: @version@:. name=@name@-@version@-@release@ base=@name@-@version@
+diff: @version@:. . name=@name@-@version@-@release@.patch
+spec: .gear/minipro.spec

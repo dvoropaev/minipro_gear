@@ -1,0 +1,6 @@
+object 8be592c954264afdc3a2cb596ee45517cc5dc621
+type commit
+tag 0.5
+tagger David Griffith <dave@661.org> 1604554557 -0800
+
+Even more fixes!
